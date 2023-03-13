@@ -1,6 +1,6 @@
 body {
   font-family: Pacifico, sans-serif;
-  background-image: url("/img/img.jpg");
+  background-image: url("../img/img.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
