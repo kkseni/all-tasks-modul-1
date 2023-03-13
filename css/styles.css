@@ -1,0 +1,37 @@
+body {
+  font-family: Pacifico, sans-serif;
+  background-image: url("/img/img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.works-title {
+  text-align: center;
+  font-size: 32px;
+  line-height: 1.5;
+  margin-bottom: 150px;
+  color: midnightblue;
+  margin-top: 150px;
+}
+.works-list {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+}
+.works-items {
+  width: 100px;
+}
+.works-link {
+  background-color: hsl(248, 53%, 58%);
+  color: azure;
+  padding: 8px 12px;
+  border-radius: 4px;
+}
+.works-link:hover,
+.works-link:focus {
+  background-color: darkmagenta;
+}
+.link {
+  text-decoration: none;
+}
